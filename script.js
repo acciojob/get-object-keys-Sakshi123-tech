@@ -9,4 +9,5 @@ function getKeys(obj) {
 }
 
 // Test the function
-console.log(getKeys(student));
+// console.log(getKeys(student));
+console.log(getKeys(myObj));
